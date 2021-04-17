@@ -5,8 +5,8 @@ Earth’s favorite social network
 O descriere mai ampla a aplicatiei cat si problemele intampinate pe parcursul constructiei acesteia se poate gasi in repository-ul de pe GitHub in PDF-ul "Manual Earthy". 
 
 De asemenea, pentru a observa mai bine functionalitatea aplicatiei, voi lasa un cont de utilizator deja inaintat in nivel: 
-Email / user: earthy.test@gmail.com
-Parola: ploiesti
+- Email / user: earthy.test@gmail.com
+- Parola: ploiesti
 
 ------------------------------------------------------------------------------------------------------------------------
 
