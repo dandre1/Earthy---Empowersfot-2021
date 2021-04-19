@@ -9,7 +9,7 @@ De asemenea, pentru a observa mai bine functionalitatea aplicatiei, voi lasa un 
 - Parola: ploiesti
 
 Acesta este link-ul pentru video-ul de prezentare pe youtube:
-https://youtu.be/x56o5E4fhK8
+https://youtu.be/snBwKMFmwkU
 
 ------------------------------------------------------------------------------------------------------------------------
 
